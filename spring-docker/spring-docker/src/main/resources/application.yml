@@ -5,7 +5,7 @@ spring:
   datasource:
     driver-class-name: oracle.jdbc.driver.OracleDriver
     # ??? ??? ??? ???? ??
-    url: jdbc:oracle:thin:@oracle11g:1521:XE
+    url: # 사용할 DB URL 
     username: system
     password: oracle
 
