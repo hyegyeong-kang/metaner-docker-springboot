@@ -4,12 +4,7 @@ server:
 spring:
   datasource:
     driver-class-name: oracle.jdbc.driver.OracleDriver
-<<<<<<< HEAD
-    url: jdbc:oracle:thin:@oracle11g:1521:XE
-=======
-    # ??? ??? ??? ???? ??
-    url: # 사용할 DB URL 
->>>>>>> 9e39c61ed58fcb8782bce55fd21efc343a949116
+    url: # 사용할 DB URL
     username: system
     password: oracle
 
